@@ -1,3 +1,3 @@
 # Deep-Learning-Image-Classifier
 
-## More coming later
+## More description later but it's done end-to-end
